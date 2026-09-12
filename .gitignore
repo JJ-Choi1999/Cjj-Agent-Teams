@@ -67,3 +67,9 @@ htmlcov/
 
 # Local build artifacts
 /agentteams-controller/agt
+
+
+# IDEs
+.codebuddy
+.workbuddy
+.obsidian
